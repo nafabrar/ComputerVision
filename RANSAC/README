@@ -1,6 +1,4 @@
 
-             Sample code for Assignment 5 of CPSC 425
-             --------------------------------------
 
 The program SIFTmatch.py contains sample Python code for reading images and
 their invariant keypoints.  It also shows how to display the images and draw
